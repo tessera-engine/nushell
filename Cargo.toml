@@ -9,9 +9,10 @@ exclude = ["images"]
 homepage = "https://www.nushell.sh"
 license = "MIT"
 name = "nu"
-repository = "https://github.com/nushell/nushell"
+repository = "https://github.com/tessera-engine/nushell"
+# repository = "https://github.com/nushell/nushell"
 rust-version = "1.83.0"
-version = "0.102.1"
+version = "0.1000.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
